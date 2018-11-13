@@ -1,0 +1,3 @@
+Ancient TSR I wrote
+It listens on the serial port using interrupts, prints to the parallel port and
+appends the same serial port data to an arbitrary file on the local disk.
